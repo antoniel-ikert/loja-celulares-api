@@ -1,5 +1,5 @@
-import express from 'express'
-import equipamentosRoutes from './routes/equipamentos.routes.js'
+import express from 'express';
+import equipamentosRoutes from './routes/equipamentos.routes.js';
 
 const app = express()
 const port = 3000
